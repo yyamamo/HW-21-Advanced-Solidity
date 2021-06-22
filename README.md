@@ -21,5 +21,5 @@
 ![](images/fastforward.PNG)
 ### We can check the transaction on Etherscan. 
 ![](images/Etherscan.gif)
-### Connected to MyCrypto
+### PupperCoin (PPC) is set up on MyCrypto
 ![](images/MyCrypto.PNG)
