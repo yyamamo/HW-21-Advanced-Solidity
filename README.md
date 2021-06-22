@@ -21,3 +21,5 @@
 ![](images/fastforward.PNG)
 ### We can check the transaction on Etherscan. 
 ![](images/Etherscan.gif)
+### Connected to MyCrypto
+![](images/MyCrypto.PNG)
