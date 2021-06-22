@@ -1,7 +1,7 @@
 # Pupper Coin Crowdsale
 #### Token Name: PupperCoin
 #### Token Symbol: PPC
-#### There are 2 solidity files, named PupperCoin.sol and PupperCoinCrowdsale.sol
+#### There are 2 solidity files, named PupperCoin.sol and PupperCoinCrowdsale.sol.
 ## How to use the contracts
 ### Step 1: Compile PupperCoin.sol and PupperCoinCrowdsale.sol.
 ![](images/Step1.gif)
@@ -21,5 +21,5 @@
 ![](images/fastforward.PNG)
 ### We can check the transaction on Etherscan. 
 ![](images/Etherscan.gif)
-### PupperCoin (PPC) is set up on MyCrypto
+### PupperCoin (PPC) is set up on MyCrypto.
 ![](images/MyCrypto.PNG)
